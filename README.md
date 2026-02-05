@@ -1,4 +1,4 @@
-# DAGGERLUST
+# ✿ DAGGERLUST
 
 **i create beautiful worlds that feel like memories you never had**
 
