@@ -1,4 +1,4 @@
-# ✿ DAGGERLUST
+# ✿ DAZZLEGLOSS
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -20,7 +20,7 @@ a tragicomedy told through existential error messages and debugging, misplaced s
 
 ## About Me
 
-hey, i'm **iris** —  
+hey, i'm **z** —  
 
 20 · cat-coded · pink panther energy · philosophical chaos
 
@@ -86,6 +86,6 @@ currently_executing = glam_up(life)
 
 
 > *"this isn't a portfolio. it's a projection."*  
-> — **DAGGERLUST**
+> — **DAZZLEGLOSS**
 
-made with insomnia + lavender tea — iris ✿
+made with insomnia + lavender tea — z
