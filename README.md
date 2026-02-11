@@ -1,4 +1,4 @@
-# ✿ LAVENDERISH 
+# ✿ SLOWSYNCED  
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -73,7 +73,7 @@ i believe in the art of imperfection — the frame left unfocused, the dream hal
 ## Reach Out
 
 if you found this place by fate, open an issue with **"hey there!"**  
-or simply add me on discord **@justacatluvr**
+or simply add me on discord **@slowsync**
 
 
 ## Current Status
@@ -86,6 +86,6 @@ currently_executing = glam_up(life)
 
 
 > *"this isn't a portfolio. it's a projection."*  
-> — **LAVENDERISH**
+> — **SLOWSYNCED**
 
 made with insomnia + lavender tea — z
